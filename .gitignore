@@ -1,3 +1,10 @@
+0556623_陳傑宇/
+checkpoints/
+checkpoints_bkp/
+log_bkp/
+log/
+gym_ddpg/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
